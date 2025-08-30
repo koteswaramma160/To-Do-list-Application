@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Happy Day",
+        "description": "nice day",
+        "category": "personal",
+        "completed": true
+    },
+    {
+        "title": "Sad Day",
+        "description": "i don't like the day and i have no free time i completly deal with work only.",
+        "category": "work",
+        "completed": false
+    }
+]
