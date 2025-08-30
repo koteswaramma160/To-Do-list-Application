@@ -30,7 +30,7 @@ This project allows you to add, view, complete, and delete tasks, while saving t
 ## 📂 Project Structure
 ```
 .
-├── tasks.json       # Stores tasks data (created automatically)
+├── tasks_todo.json       # Stores tasks data (created automatically)
 ├── todo.py          # Main program
 └── README.md        # Documentation
 ```
